@@ -9,10 +9,10 @@
   },
   "dependencies": {
     "@heroicons/vue": "^1.0.1",
-    "autoprefixer": "^10.2.6",
+    "autoprefixer": "^9",
     "core-js": "^3.6.5",
-    "postcss": "^8.3.5",
-    "tailwindcss": "^2.1.4",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"

@@ -12,5 +12,9 @@ export default {
 </script>
 
 <style scoped>
-
+#nav {
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+}
 </style>
